@@ -1,1 +1,1 @@
-   """SecretShield: detect hardcoded secrets and weak cryptography in source code."""
+"""SecretShield: detect hardcoded secrets and weak cryptography in source code."""
