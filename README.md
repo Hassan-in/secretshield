@@ -2,7 +2,7 @@
 
 *Team ULTRON, CRYPTAURA 2.0, problem AURA-3.2: Detecting Exposed Secrets in Applications.*
 
-**Live demo:** https://secretshield-n8hz.onrender.com/  |  **Demo video:** _paste link here_
+**Live demo:** https://secretshield-n8hz.onrender.com/  
 
 A static analysis tool (core scanner uses only the Python standard library; the web UI uses Flask) that scans source code and project
 files for **hardcoded secrets** (API keys, passwords, tokens, private keys,
